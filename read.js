@@ -11,4 +11,5 @@ fs.readFile('input.txt',function(err,data){
 
     }
     console.log(data)
+    console.log('cosoling')
 })
